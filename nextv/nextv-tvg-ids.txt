@@ -383,9 +383,9 @@ Disney.Junior.USA.-.East.us
 Disney.on.Demand.us
 Disney.-.Pacific.Feed.us
 Disney.XD.USA.-.Eastern.Feed.us
-MGM+ HD - East (1891).us;MGM+ HD - East (1891).us
-MGM+ Hits HD - East (1893).us;MGM+ Hits HD - East (1893).us
-MGM+ Marquee HD (1894).us;MGM+ Marquee HD (1894).us
+MGM+.HDTV.(East).(MGM+HD).us
+MGM+.Hits.HDTV.(East).(MGM+HTHD).us
+MGM+.Hits.HDTV.(East).(MGM+HTHD).us
 ESPN.us
 ESPN.Alternate.us
 ESPN2.us
