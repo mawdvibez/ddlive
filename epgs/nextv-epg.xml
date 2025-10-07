@@ -1,183 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Cartoonito.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1371.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1371.png" />
+<tv><channel id="Sky.Witness.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Cartoonito</display-name>
-  </channel>
-  <channel id="5STAR.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3023.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3023.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">5STAR</display-name>
-  </channel>
-  <channel id="E4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">E4 HD</display-name>
-  </channel>
-  <channel id="MTV.MUSIC.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2512.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2512.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">MTV MUSIC</display-name>
-  </channel>
-  <channel id="SkySpMainEvHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySpMainEvHD</display-name>
-  </channel>
-  <channel id="SkySp.Cricket.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Cricket</display-name>
-  </channel>
-  <channel id="Cartoon.Net.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4077.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4077.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Cartoon Net HD</display-name>
-  </channel>
-  <channel id="Quest.Red.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2411.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2411.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Quest Red</display-name>
-  </channel>
-  <channel id="Really.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2325.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2325.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Really</display-name>
-  </channel>
-  <channel id="CBeebies.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2088.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2088.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">CBeebies HD</display-name>
-  </channel>
-  <channel id="Disc.Turbo.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2409.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2409.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Disc.Turbo</display-name>
-  </channel>
-  <channel id="Sky.Comedy.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Comedy HD</display-name>
-  </channel>
-  <channel id="U.and.alibi.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3825.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3825.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">U and alibi HD</display-name>
-  </channel>
-  <channel id="Cartoon.Netwrk.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5601.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5601.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Cartoon Netwrk</display-name>
-  </channel>
-  <channel id="More4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">More4 HD</display-name>
-  </channel>
-  <channel id="Channel.5.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Channel 5</display-name>
-  </channel>
-  <channel id="Sky.Nature.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/b5f505e2-5bd9-5fc0-b307-35dfd4611836/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/b5f505e2-5bd9-5fc0-b307-35dfd4611836/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Sky Nature HD</display-name>
-  </channel>
-  <channel id="SkyPremiereHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkyPremiereHD</display-name>
-  </channel>
-  <channel id="Nicktoons.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1849.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1849.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Nicktoons</display-name>
-  </channel>
-  <channel id="U.and.W.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3810.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3810.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">U and W HD</display-name>
-  </channel>
-  <channel id="ITV4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV4 HD</display-name>
-  </channel>
-  <channel id="BBC.NEWS.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">BBC NEWS HD</display-name>
-  </channel>
-  <channel id="NickelodeonHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4069.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4069.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">NickelodeonHD</display-name>
-  </channel>
-  <channel id="Boomerang.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4030.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4030.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Boomerang HD</display-name>
-  </channel>
-  <channel id="Euronews.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4604.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4604.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Euronews</display-name>
-  </channel>
-  <channel id="FRANCE.24.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1121.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1121.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">FRANCE 24 HD</display-name>
-  </channel>
-  <channel id="Sky.Premiere.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Premiere</display-name>
-  </channel>
-  <channel id="Challenge.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2202.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2202.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Challenge</display-name>
-  </channel>
-  <channel id="ITV1.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV1 HD</display-name>
-  </channel>
-  <channel id="SkySp.Action.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Action</display-name>
+    <display-name lang="en">Sky Witness HD</display-name>
   </channel>
   <channel id="SkySp.PL.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
@@ -185,231 +11,17 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp PL HD</display-name>
   </channel>
-  <channel id="ComedyCentral.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2510.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2510.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ComedyCentral</display-name>
-  </channel>
-  <channel id="Sky.Witness.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4066.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Witness HD</display-name>
-  </channel>
-  <channel id="TLC.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3812.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3812.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">TLC HD</display-name>
-  </channel>
-  <channel id="Sky.Greats.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Greats HD</display-name>
-  </channel>
-  <channel id="U.and.YESTERDAY.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2305.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2305.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">U and YESTERDAY</display-name>
-  </channel>
-  <channel id="5ACTION.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">5ACTION</display-name>
-  </channel>
-  <channel id="NatGeoWild.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4025.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4025.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">NatGeoWild HD</display-name>
-  </channel>
-  <channel id="BabyTV.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3645.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3645.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">BabyTV</display-name>
-  </channel>
-  <channel id="ITV3.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV3 HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.1.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 1 HD</display-name>
-  </channel>
-  <channel id="5.USA.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">5 USA</display-name>
-  </channel>
-  <channel id="5SELECT.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3028.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3028.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">5SELECT</display-name>
-  </channel>
-  <channel id="S4C.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5701.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5701.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">S4C</display-name>
-  </channel>
-  <channel id="SkySp.News.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp News HD</display-name>
-  </channel>
-  <channel id="ComedyCentHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4056.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4056.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ComedyCentHD</display-name>
-  </channel>
-  <channel id="TNT.Sports.3.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 3 HD</display-name>
-  </channel>
-  <channel id="SkySp.Fball.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Fball</display-name>
-  </channel>
   <channel id="QUEST.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1128.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1128.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">QUEST HD</display-name>
   </channel>
-  <channel id="SkySp.ActionHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
+  <channel id="Nat.Geo.Wild.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1847.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1847.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp ActionHD</display-name>
-  </channel>
-  <channel id="Sky.Greats.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Greats</display-name>
-  </channel>
-  <channel id="SkySp.PL.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1303.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1303.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp PL</display-name>
-  </channel>
-  <channel id="TNT.Sports.4.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 4 HD</display-name>
-  </channel>
-  <channel id="HGTV.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2301.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2301.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">HGTV</display-name>
-  </channel>
-  <channel id="SkySp.Mix.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Mix HD</display-name>
-  </channel>
-  <channel id="UTV.uk">
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">UTV</display-name>
-  </channel>
-  <channel id="DMAX.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3618.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3618.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">DMAX</display-name>
-  </channel>
-  <channel id="TNT.Sports.2.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 2 HD</display-name>
-  </channel>
-  <channel id="SkySp.Fball.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Fball HD</display-name>
-  </channel>
-  <channel id="Crime+Inv.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4088.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4088.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Crime+Inv HD</display-name>
-  </channel>
-  <channel id="BBC.Two.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">BBC Two HD</display-name>
-  </channel>
-  <channel id="Film4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Film4 HD</display-name>
-  </channel>
-  <channel id="Sky.News.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky News HD</display-name>
-  </channel>
-  <channel id="SkySp.F1.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp F1 HD</display-name>
-  </channel>
-  <channel id="ID.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2413.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2413.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ID</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Select.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Cinema Select</display-name>
-  </channel>
-  <channel id="Channel.5.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Channel 5 HD</display-name>
-  </channel>
-  <channel id="SkyShowcaseHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1275.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1275.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkyShowcaseHD</display-name>
-  </channel>
-  <channel id="ITV2.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV2 HD</display-name>
+    <display-name lang="en">Nat Geo Wild</display-name>
   </channel>
   <channel id="SkySp.F1.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1306.png" />
@@ -423,11 +35,17 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">Sky Sports Football HD</display-name>
   </channel>
-  <channel id="Sky.Showcase.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1276.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1276.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Showcase</display-name>
+  <channel id="Sky.Cinema.Hits.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Sky Cinema Hits HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.2.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 2 HD</display-name>
   </channel>
   <channel id="BBC.Four.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
@@ -435,136 +53,29 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">BBC Four HD</display-name>
   </channel>
-  <channel id="U.and.Dave.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3809.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3809.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">U and Dave HD</display-name>
-  </channel>
-  <channel id="SkySp.Racing.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1354.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Racing</display-name>
-  </channel>
   <channel id="QUEST.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6761.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6761.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">QUEST</display-name>
   </channel>
-  <channel id="MTV.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png" />
+  <channel id="S4C.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5701.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5701.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">MTV HD</display-name>
+    <display-name lang="en">S4C</display-name>
   </channel>
-  <channel id="Channel.4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" />
+  <channel id="Sky.Premiere.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1409.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Channel 4 HD</display-name>
+    <display-name lang="en">Sky Premiere</display-name>
   </channel>
-  <channel id="SkySp.Racing.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
+  <channel id="Crime+Inv.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4088.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4088.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Racing HD</display-name>
-  </channel>
-  <channel id="Sky.HistoryHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky HistoryHD</display-name>
-  </channel>
-  <channel id="U.and.Gold.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2903.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2903.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Gold</display-name>
-  </channel>
-  <channel id="Sky.Max.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4061.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4061.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Max HD</display-name>
-  </channel>
-  <channel id="Nat.Geo.Wild.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1847.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1847.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Nat Geo Wild</display-name>
-  </channel>
-  <channel id="Sky.Arts.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Arts HD</display-name>
-  </channel>
-  <channel id="Sky.Cinema.Hits.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Sky Cinema Hits HD</display-name>
-  </channel>
-  <channel id="Nick.Jr..HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4039.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4039.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Nick Jr. HD</display-name>
-  </channel>
-  <channel id="Sky.Comedy.Cinema.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1002.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1002.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Comedy Cinema</display-name>
-  </channel>
-  <channel id="SkySpCricket.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySpCricket HD</display-name>
-  </channel>
-  <channel id="U.and.Drama.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2612.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2612.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">U and Drama</display-name>
-  </channel>
-  <channel id="S4C.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2296.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2296.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">S4C HD</display-name>
-  </channel>
-  <channel id="Sky.History2.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1879.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1879.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky History2</display-name>
-  </channel>
-  <channel id="SkyHistory2HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1195.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1195.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkyHistory2HD</display-name>
-  </channel>
-  <channel id="Sky.Family.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Family HD</display-name>
-  </channel>
-  <channel id="Discovery.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4003.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4003.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Discovery HD</display-name>
-  </channel>
-  <channel id="Travelxp.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1226.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1226.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Travelxp</display-name>
+    <display-name lang="en">Crime+Inv HD</display-name>
   </channel>
   <channel id="MTV.HITS.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2506.png" />
@@ -572,29 +83,33 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">MTV HITS</display-name>
   </channel>
-  <channel id="U.and.GOLD.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6513.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6513.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">U and GOLD HD</display-name>
+  <channel id="Sky.Nature.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/b5f505e2-5bd9-5fc0-b307-35dfd4611836/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/b5f505e2-5bd9-5fc0-b307-35dfd4611836/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Sky Nature HD</display-name>
   </channel>
-  <channel id="BBC.Three.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
+  <channel id="SkySp.Fball.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3838.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">BBC Three HD</display-name>
+    <display-name lang="en">SkySp Fball</display-name>
   </channel>
-  <channel id="BBC.One.EastHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3006.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3006.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">BBC One EastHD</display-name>
+  <channel id="UTV.uk">
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">UTV</display-name>
   </channel>
-  <channel id="Food.Network.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3590.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3590.png" />
+  <channel id="TNT.Sports.4.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 4 HD</display-name>
+  </channel>
+  <channel id="Sky.Showcase.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1276.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1276.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Food Network</display-name>
+    <display-name lang="en">Sky Showcase</display-name>
   </channel>
   <channel id="Nat.Geo.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4031.png" />
@@ -602,17 +117,502 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Nat Geo HD</display-name>
   </channel>
+  <channel id="Food.Network.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3590.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3590.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Food Network</display-name>
+  </channel>
+  <channel id="MTV.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3831.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">MTV HD</display-name>
+  </channel>
+  <channel id="BBC.Three.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BBC Three HD</display-name>
+  </channel>
+  <channel id="NatGeoWild.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4025.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4025.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">NatGeoWild HD</display-name>
+  </channel>
+  <channel id="Nicktoons.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1849.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1849.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Nicktoons</display-name>
+  </channel>
+  <channel id="SkySp.Action.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1333.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Action</display-name>
+  </channel>
+  <channel id="Channel.4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Channel 4 HD</display-name>
+  </channel>
+  <channel id="CBeebies.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2088.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2088.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">CBeebies HD</display-name>
+  </channel>
+  <channel id="FRANCE.24.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1121.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1121.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">FRANCE 24 HD</display-name>
+  </channel>
+  <channel id="5STAR.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3023.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3023.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">5STAR</display-name>
+  </channel>
+  <channel id="SkySpCricket.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySpCricket HD</display-name>
+  </channel>
+  <channel id="ITV1.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV1 HD</display-name>
+  </channel>
+  <channel id="BBC.NEWS.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BBC NEWS HD</display-name>
+  </channel>
+  <channel id="BBC.One.EastHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3006.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3006.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BBC One EastHD</display-name>
+  </channel>
+  <channel id="S4C.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2296.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2296.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">S4C HD</display-name>
+  </channel>
+  <channel id="More4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4043.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">More4 HD</display-name>
+  </channel>
+  <channel id="Cartoonito.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1371.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1371.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Cartoonito</display-name>
+  </channel>
+  <channel id="Cartoon.Net.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4077.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4077.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Cartoon Net HD</display-name>
+  </channel>
+  <channel id="5.USA.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3022.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">5 USA</display-name>
+  </channel>
   <channel id="Sky.Atlantic.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Atlantic HD</display-name>
   </channel>
+  <channel id="Boomerang.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4030.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4030.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Boomerang HD</display-name>
+  </channel>
+  <channel id="ITV3.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV3 HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.1.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 1 HD</display-name>
+  </channel>
+  <channel id="ITV4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV4 HD</display-name>
+  </channel>
+  <channel id="Sky.Greats.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Greats HD</display-name>
+  </channel>
+  <channel id="DMAX.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3618.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3618.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">DMAX</display-name>
+  </channel>
+  <channel id="SkySp.Racing.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Racing HD</display-name>
+  </channel>
+  <channel id="Channel.5.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Channel 5 HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.3.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 3 HD</display-name>
+  </channel>
+  <channel id="Nick.Jr..HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4039.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4039.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Nick Jr. HD</display-name>
+  </channel>
+  <channel id="SkySp.Fball.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Fball HD</display-name>
+  </channel>
+  <channel id="Sky.HistoryHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky HistoryHD</display-name>
+  </channel>
+  <channel id="Sky.Arts.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Arts HD</display-name>
+  </channel>
+  <channel id="Really.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2325.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2325.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Really</display-name>
+  </channel>
+  <channel id="SkySp.ActionHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp ActionHD</display-name>
+  </channel>
+  <channel id="U.and.Drama.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2612.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2612.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">U and Drama</display-name>
+  </channel>
+  <channel id="SkySp.Racing.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1354.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Racing</display-name>
+  </channel>
+  <channel id="ComedyCentHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4056.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4056.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ComedyCentHD</display-name>
+  </channel>
+  <channel id="Sky.Greats.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1815.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Greats</display-name>
+  </channel>
+  <channel id="SkyPremiereHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkyPremiereHD</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Select.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Cinema Select</display-name>
+  </channel>
+  <channel id="SkySpMainEvHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySpMainEvHD</display-name>
+  </channel>
+  <channel id="Travelxp.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1226.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1226.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Travelxp</display-name>
+  </channel>
+  <channel id="ITV2.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6532.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV2 HD</display-name>
+  </channel>
+  <channel id="Challenge.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2202.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2202.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Challenge</display-name>
+  </channel>
+  <channel id="Sky.Max.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4061.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4061.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Max HD</display-name>
+  </channel>
+  <channel id="MTV.MUSIC.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2512.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2512.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">MTV MUSIC</display-name>
+  </channel>
+  <channel id="BabyTV.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3645.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3645.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BabyTV</display-name>
+  </channel>
+  <channel id="SkySp.Cricket.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1302.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Cricket</display-name>
+  </channel>
+  <channel id="Film4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Film4 HD</display-name>
+  </channel>
+  <channel id="5ACTION.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1036.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">5ACTION</display-name>
+  </channel>
+  <channel id="SkyHistory2HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1195.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1195.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkyHistory2HD</display-name>
+  </channel>
+  <channel id="U.and.W.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3810.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3810.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">U and W HD</display-name>
+  </channel>
+  <channel id="U.and.GOLD.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6513.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6513.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">U and GOLD HD</display-name>
+  </channel>
+  <channel id="E4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4076.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">E4 HD</display-name>
+  </channel>
+  <channel id="ComedyCentral.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2510.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2510.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ComedyCentral</display-name>
+  </channel>
+  <channel id="HGTV.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2301.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2301.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">HGTV</display-name>
+  </channel>
+  <channel id="U.and.YESTERDAY.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2305.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2305.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">U and YESTERDAY</display-name>
+  </channel>
+  <channel id="Cartoon.Netwrk.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5601.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb5601.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Cartoon Netwrk</display-name>
+  </channel>
+  <channel id="TLC.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3812.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3812.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">TLC HD</display-name>
+  </channel>
+  <channel id="Disc.Turbo.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2409.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2409.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Disc.Turbo</display-name>
+  </channel>
   <channel id="Animal.Planet.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2402.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2402.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Animal Planet</display-name>
+  </channel>
+  <channel id="Sky.History2.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1879.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1879.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky History2</display-name>
+  </channel>
+  <channel id="SkySp.F1.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp F1 HD</display-name>
+  </channel>
+  <channel id="NickelodeonHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4069.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4069.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">NickelodeonHD</display-name>
+  </channel>
+  <channel id="SkySp.News.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp News HD</display-name>
+  </channel>
+  <channel id="SkySp.PL.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1303.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1303.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp PL</display-name>
+  </channel>
+  <channel id="BBC.Two.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BBC Two HD</display-name>
+  </channel>
+  <channel id="Sky.Comedy.Cinema.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1002.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1002.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Comedy Cinema</display-name>
+  </channel>
+  <channel id="U.and.Gold.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2903.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2903.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Gold</display-name>
+  </channel>
+  <channel id="ID.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2413.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2413.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ID</display-name>
+  </channel>
+  <channel id="Quest.Red.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2411.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2411.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Quest Red</display-name>
+  </channel>
+  <channel id="U.and.alibi.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3825.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3825.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">U and alibi HD</display-name>
+  </channel>
+  <channel id="Sky.Family.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Family HD</display-name>
+  </channel>
+  <channel id="SkySp.Mix.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Mix HD</display-name>
+  </channel>
+  <channel id="Euronews.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4604.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4604.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Euronews</display-name>
+  </channel>
+  <channel id="Sky.Comedy.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Comedy HD</display-name>
+  </channel>
+  <channel id="Sky.News.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky News HD</display-name>
+  </channel>
+  <channel id="SkyShowcaseHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1275.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1275.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkyShowcaseHD</display-name>
+  </channel>
+  <channel id="U.and.Dave.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3809.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3809.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">U and Dave HD</display-name>
+  </channel>
+  <channel id="Discovery.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4003.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4003.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Discovery HD</display-name>
+  </channel>
+  <channel id="Channel.5.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Channel 5</display-name>
+  </channel>
+  <channel id="5SELECT.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3028.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3028.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">5SELECT</display-name>
   </channel>
   <programme channel="Sky.HistoryHD.uk" start="20251006002500 +0000" stop="20251006012000 +0000">
     <title lang="en">Ancient Aliens</title>
@@ -103792,12 +103792,8 @@
     <icon src="https://tv.assets.pressassociation.io/b7148d5a-0fe9-59a7-aa66-8964743e5750.jpg" />
   </programme>
   <programme channel="Sky.Sports.Football.HD.uk" start="20251008184500 +0000" stop="20251008190000 +0000">
-    <title lang="en">EFL Highlights</title>
-    <sub-title lang="en">Wrexham v Birmingham City 03.10</sub-title>
-    <desc lang="en">Wrexham v Birmingham City in the Championship.</desc>
-    <category lang="en">Football - Club</category>
-    <category lang="en">Sports</category>
-    <icon src="https://tv.assets.pressassociation.io/9e95cca7-0ec0-50c8-89b4-7e4f88a042b0.jpg" />
+    <title lang="en">EFL Highlights (?)</title>
+    <desc lang="en">).</desc>
   </programme>
   <programme channel="Sky.Sports.Football.HD.uk" start="20251008190000 +0000" stop="20251008193000 +0000">
     <title lang="en">EFL League One Goals</title>
@@ -104914,8 +104910,13 @@
     <episode-num system="onscreen">S2024 E12</episode-num>
   </programme>
   <programme channel="TNT.Sports.1.HD.uk" start="20251008060100 +0000" stop="20251008090000 +0000">
-    <title lang="en">Live: Snooker Xi'an Grand Prix (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Live: Snooker Xi'an Grand Prix</title>
+    <sub-title lang="en">Round 2 Session 4</sub-title>
+    <desc lang="en">Coverage of the second round of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
+    <category lang="en">Snooker</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/72acb568-7ce3-59ea-a097-0bccfea694ce.jpg" />
+    <episode-num system="onscreen">S2025 E24</episode-num>
   </programme>
   <programme channel="TNT.Sports.1.HD.uk" start="20251008090000 +0000" stop="20251008093000 +0000">
     <title lang="en">Premier League Netbusters</title>
@@ -104951,8 +104952,13 @@
     <episode-num system="onscreen">S2025 E8</episode-num>
   </programme>
   <programme channel="TNT.Sports.1.HD.uk" start="20251008113000 +0000" stop="20251008143000 +0000">
-    <title lang="en">Live: Snooker Xi'an Grand Prix (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Live: Snooker Xi'an Grand Prix</title>
+    <sub-title lang="en">Round 2 Session 5</sub-title>
+    <desc lang="en">Further coverage of the second round of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
+    <category lang="en">Snooker</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2198b94b-fdec-5014-8e09-01d30b36f03c.jpg" />
+    <episode-num system="onscreen">S2025 E25</episode-num>
   </programme>
   <programme channel="TNT.Sports.1.HD.uk" start="20251008143000 +0000" stop="20251008150000 +0000">
     <title lang="en">Premier League - The Big Interview</title>
@@ -105067,8 +105073,13 @@
     <episode-num system="onscreen">S2025 E18</episode-num>
   </programme>
   <programme channel="TNT.Sports.1.HD.uk" start="20251009060000 +0000" stop="20251009090000 +0000">
-    <title lang="en">Live: Snooker Xi'an Grand Prix (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Live: Snooker Xi'an Grand Prix</title>
+    <sub-title lang="en">Round 3 Session 1</sub-title>
+    <desc lang="en">Coverage of the first session from the third round of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
+    <category lang="en">Snooker</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4ed553e9-cdb4-567c-adaf-a78a24239021.jpg" />
+    <episode-num system="onscreen">S2025 E5</episode-num>
   </programme>
   <programme channel="TNT.Sports.1.HD.uk" start="20251009090000 +0000" stop="20251009093000 +0000">
     <title lang="en">Premier League Netbusters</title>
@@ -105554,8 +105565,13 @@
     <episode-num system="onscreen">S2025 E1</episode-num>
   </programme>
   <programme channel="TNT.Sports.2.HD.uk" start="20251007090000 +0000" stop="20251007104500 +0000">
-    <title lang="en">Live: Women's Cycling Pro Series (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Live: Women's Cycling Pro Series</title>
+    <sub-title lang="en">Tre Valli Varesine</sub-title>
+    <desc lang="en">The Tre Valli Varesine. Coverage of the one-day race from Lombardy, Italy.</desc>
+    <category lang="en">Cycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/36a74146-03c8-5486-ac71-57f3c7585696.jpg" />
+    <episode-num system="onscreen">S2025 E15</episode-num>
   </programme>
   <programme channel="TNT.Sports.2.HD.uk" start="20251007104500 +0000" stop="20251007110000 +0000">
     <title lang="en">The Gallagher PREM - The Wrap Up</title>
@@ -106424,12 +106440,21 @@
     <episode-num system="onscreen">S2023 E5</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007091500 +0000" stop="20251007093000 +0000">
-    <title lang="en">In My Blood (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">In My Blood</title>
+    <sub-title lang="en">Cole Palmer</sub-title>
+    <desc lang="en">With Chelsea star Cole Palmer.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/aba827a5-fb95-545e-af85-dadc96a11661.jpg" />
+    <episode-num system="onscreen">S2023 E8</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007093000 +0000" stop="20251007103100 +0000">
-    <title lang="en">International T20 Cricket Highlights (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">International T20 Cricket Highlights</title>
+    <sub-title lang="en">New Zealand v Australia - 1st T20</sub-title>
+    <desc lang="en">New Zealand v Australia. Action from the first T20 in the three-match series from Bay Oval in Mount Maunganui, Tauranga.</desc>
+    <category lang="en">Cricket - International</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d5afda6d-f441-59c9-8f27-9af79aa1a15d.jpg" />
+    <episode-num system="onscreen">S2026 E1</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007103100 +0000" stop="20251007113000 +0000">
     <title lang="en">WNBA</title>
@@ -106441,40 +106466,83 @@
     <episode-num system="onscreen">S2025 E33</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007113000 +0000" stop="20251007143000 +0000">
-    <title lang="en">Live: Snooker Xi'an Grand Prix (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Live: Snooker Xi'an Grand Prix</title>
+    <sub-title lang="en">Round 2 Session 2</sub-title>
+    <desc lang="en">Coverage of the second session from the second round of the tournament, which takes place at Qujiang Sports Complex in Xi'an, China.</desc>
+    <category lang="en">Snooker</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/35087194-dac1-5b79-b531-697569db04a4.jpg" />
+    <episode-num system="onscreen">S2025 E4</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007143000 +0000" stop="20251007144500 +0000">
-    <title lang="en">UEFA Champions League Goals Reload (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the second round of fixtures, featuring Paris Saint-Germain v Barcelona, Union Saint-Gilloise v Newcastle United, and Galatasaray v Liverpool.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/f226052a-3dbe-5ef9-8647-7bd44bb81f28.jpg" />
+    <episode-num system="onscreen">S2025 E2</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007144500 +0000" stop="20251007150000 +0000">
-    <title lang="en">UEFA Europa League Goals Reload (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the second round of fixtures, including Nottingham Forest v Midtjylland, Feyenoord v Aston Villa and Celtic v SC Braga.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/169b41ff-d858-5537-ac58-40b502a83c20.jpg" />
+    <episode-num system="onscreen">S2025 E2</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007150000 +0000" stop="20251007151500 +0000">
-    <title lang="en">UEFA Conference League Goals Reload (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">UEFA Conference League Goals Reload</title>
+    <sub-title lang="en">Matchday 1</sub-title>
+    <desc lang="en">A look at the best goals from matchday one of the UEFA Conference League, including AEK Athens v Aberdeen, Crystal Palace v AEK Larnaca and Shamrock Rovers v Celje.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9867b656-f779-5a5a-a821-8326fb22666f.jpg" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007151500 +0000" stop="20251007153000 +0000">
-    <title lang="en">In My Blood (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">In My Blood</title>
+    <sub-title lang="en">Cole Palmer</sub-title>
+    <desc lang="en">With Chelsea star Cole Palmer.</desc>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/aba827a5-fb95-545e-af85-dadc96a11661.jpg" />
+    <episode-num system="onscreen">S2023 E8</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007153000 +0000" stop="20251007163000 +0000">
-    <title lang="en">MotoGP (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Moto3: GP of Indonesia</sub-title>
+    <desc lang="en">Action from the 2025 Moto3 Grand Prix of Indonesia.</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/810e1ee5-b1ff-58a8-b98f-5a16a68dd8c1.jpg" />
+    <episode-num system="onscreen">S2025 E209</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007163000 +0000" stop="20251007173000 +0000">
-    <title lang="en">MotoGP (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">Moto2: GP of Indonesia</sub-title>
+    <desc lang="en">Action from the 2025 Moto2 Grand Prix of Indonesia.</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/8505becf-1c82-5e2b-a068-0a42ec305f22.jpg" />
+    <episode-num system="onscreen">S2025 E210</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007173000 +0000" stop="20251007180000 +0000">
-    <title lang="en">MotoGP (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">MotoGP: Indonesia Sprint Race</sub-title>
+    <desc lang="en">Action from the 2025 Grand Prix of Indonesia sprint race.</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Spor"])&lt;</category>
+    <category lang="en">script&gt;&lt;script&gt;self.__next_f.push([1,"ts</category>
+    <icon src="https://tv.assets.pressassociation.io/0a9f9e82-b686-5ac7-ba7c-e655056bc459.jpg" />
+    <episode-num system="onscreen">S2025 E207</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007180000 +0000" stop="20251007190000 +0000">
-    <title lang="en">MotoGP (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">MotoGP</title>
+    <sub-title lang="en">MotoGP: GP of Indonesia FP</sub-title>
+    <desc lang="en">Action from the 2025 MotoGP Grand Prix of Indonesia.</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/e4527bd9-dcdf-5e25-86ae-c99a69dd3351.jpg" />
+    <episode-num system="onscreen">S2025 E211</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007190000 +0000" stop="20251007200000 +0000">
     <title lang="en">MotoGP Chequered Flag</title>
@@ -106486,12 +106554,21 @@
     <episode-num system="onscreen">S2025 E18</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007200000 +0000" stop="20251007220000 +0000">
-    <title lang="en">Snooker Xi'an Grand Prix (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Snooker Xi'an Grand Prix</title>
+    <sub-title lang="en">Daily Highlights</sub-title>
+    <desc lang="en">Action from the first day of the tournament.</desc>
+    <category lang="en">Snooker</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/9f5ec1f8-7381-5a28-81c6-9db4de824deb.jpg" />
+    <episode-num system="onscreen">S2025 E15 P7/10</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007220000 +0000" stop="20251007221500 +0000">
-    <title lang="en">The Gallagher PREM - The Wrap Up (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">The Gallagher PREM - The Wrap Up</title>
+    <desc lang="en">A look back at week two of the 2025/26 Gallagher Prem season.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/5f3b23e4-da41-507d-8e76-f13c27b17141.jpg" />
+    <episode-num system="onscreen">S2025 E2</episode-num>
   </programme>
   <programme channel="TNT.Sports.3.HD.uk" start="20251007221500 +0000" stop="20251007223000 +0000">
     <title lang="en">UEFA Champions League Goals Reload</title>
@@ -107246,12 +107323,22 @@
     <episode-num system="onscreen">S2025 E211</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251007113000 +0000" stop="20251007123000 +0000">
-    <title lang="en">MotoGP Chequered Flag (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">MotoGP Chequered Flag</title>
+    <sub-title lang="en">Grand Prix of Indonesia</sub-title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders).</desc>
+    <category lang="en">Motorcycling</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d51fd373-3801-5bec-8a8c-de5a8c33e2c7.jpg" />
+    <episode-num system="onscreen">S2025 E18</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251007123000 +0000" stop="20251007133000 +0000">
-    <title lang="en">The Gallagher PREM (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">The Gallagher PREM</title>
+    <sub-title lang="en">Bath Rugby v Sale Sharks</sub-title>
+    <desc lang="en">Bath Rugby v Sale Sharks.</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/d22eb5fa-fe03-5455-8fa1-4506a28dd29d.jpg" />
+    <episode-num system="onscreen">S2025 E6</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251007133000 +0000" stop="20251007143000 +0000">
     <title lang="en">The Gallagher PREM (?)</title>
@@ -107275,8 +107362,13 @@
     <desc lang="en">).</desc>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251007173000 +0000" stop="20251007183000 +0000">
-    <title lang="en">Longines FEI Jumping World Breeding Championship (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Longines FEI Jumping World Breeding Championship</title>
+    <sub-title lang="en">Lanaken</sub-title>
+    <desc lang="en">Action from Lanaken, Belgium.</desc>
+    <category lang="en">Equestrian</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/ecd728e0-a836-57eb-b657-2fe19aca0600.jpg" />
+    <episode-num system="onscreen">S2025 E1</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251007183000 +0000" stop="20251007193000 +0000">
     <title lang="en">WNBA (?)</title>
@@ -107299,8 +107391,13 @@
     <desc lang="en">).</desc>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251007214500 +0000" stop="20251007223000 +0000">
-    <title lang="en">Motocross World Championship (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Motocross World Championship</title>
+    <sub-title lang="en">Motocross of Nations Race 1</sub-title>
+    <desc lang="en">Action from race one of the 2025 Monster Energy Motocross of Nations.</desc>
+    <category lang="en">Motor Sport</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/2200dd65-2f3b-550c-afe6-fd43cf7ac74b.jpg" />
+    <episode-num system="onscreen">S2025 E81</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251007223000 +0000" stop="20251007231500 +0000">
     <title lang="en">Motocross World Championship (?)</title>
@@ -107311,8 +107408,13 @@
     <desc lang="en">).</desc>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251008000000 +0000" stop="20251008003000 +0000">
-    <title lang="en">UCI Mountain Bike World Series Women (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">UCI Mountain Bike World Series Women</title>
+    <sub-title lang="en">Lake Placid-XCC Short Track Elite</sub-title>
+    <desc lang="en">Action from the XCC short track elite race at Lake Placid.</desc>
+    <category lang="en">Mountainbiking</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/4427e2f3-1522-5220-916e-4ad631e4dc8d.jpg" />
+    <episode-num system="onscreen">S2025 E46</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251008003000 +0000" stop="20251008010000 +0000">
     <title lang="en">UCI Mountain Bike World Series Men</title>
@@ -107324,8 +107426,13 @@
     <episode-num system="onscreen">S2025 E46</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251008010000 +0000" stop="20251008013000 +0000">
-    <title lang="en">UCI Mountain Bike World Series Women (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">UCI Mountain Bike World Series Women</title>
+    <sub-title lang="en">Lake Placid-DHI Elite Final</sub-title>
+    <desc lang="en">Action from the DHI elite final at Lake Placid.</desc>
+    <category lang="en">Mountainbiking</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/cd8b496e-8e9d-5510-8907-758302b2fc9b.jpg" />
+    <episode-num system="onscreen">S2025 E48</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251008013000 +0000" stop="20251008020000 +0000">
     <title lang="en">UCI Mountain Bike World Series Men (?)</title>
@@ -107340,12 +107447,22 @@
     <desc lang="en">).</desc>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251008030000 +0000" stop="20251008040000 +0000">
-    <title lang="en">Serie A (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Serie A: Fiorentina v Roma</sub-title>
+    <desc lang="en">Fiorentina v AS Roma.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/3946e7b0-4e84-5990-8ed0-aa973318a92d.jpg" />
+    <episode-num system="onscreen">S2025 E11</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251008040000 +0000" stop="20251008050000 +0000">
-    <title lang="en">Serie A (?)</title>
-    <desc lang="en">).</desc>
+    <title lang="en">Serie A</title>
+    <sub-title lang="en">Serie A: Juventus v AC Milan</sub-title>
+    <desc lang="en">Juventus v AC Milan.</desc>
+    <category lang="en">Football - Club</category>
+    <category lang="en">Sports</category>
+    <icon src="https://tv.assets.pressassociation.io/85020235-6e1c-5230-897d-442a8f109598.jpg" />
+    <episode-num system="onscreen">S2025 E12</episode-num>
   </programme>
   <programme channel="TNT.Sports.4.HD.uk" start="20251008050000 +0000" stop="20251008060000 +0000">
     <title lang="en">UEFA Champions League Highlights Show</title>
@@ -107825,22 +107942,6 @@
     <category lang="en">Sports</category>
     <icon src="https://tv.assets.pressassociation.io/5f463ddc-9685-5bb7-b4e4-e947a56b6f5a.jpg" />
     <episode-num system="onscreen">S2023 E8</episode-num>
-  </programme>
-  <programme channel="Sky.Cinema.Hits.HD.uk" start="20251006190000 +0000" stop="20251006210000 +0000">
-    <title lang="en">Pitch Perfect</title>
-    <desc lang="en">Under heavy pressure from her father, Beca reluctantly starts her first year at Barden University and gets an internship at the school radio station. She soon acquires a new circle of friends in the form of a band of misfits with a shared talent for singing, joining their a cappella group and trying to inject some much needed energy into their repertoire. Comedy, starring Anna Kendrick, Brittany Snow, Anna Camp, Rebel Wilson and Skylar Astin.</desc>
-    <credits>
-      <actor>Anna Kendrick</actor>
-      <actor>Rebel Wilson</actor>
-      <actor>Elizabeth Banks</actor>
-      <actor>Brittany Snow</actor>
-      <actor>Anna Camp</actor>
-      <actor>Ester Dean</actor>
-      <actor>Skylar Astin</actor>
-      <actor>Adam DeVine</actor>
-    </credits>
-    <category lang="en">Film</category>
-    <icon src="https://tv.assets.pressassociation.io/9a848717-8f3d-57e5-8827-e50757a90cbb.jpg" />
   </programme>
   <programme channel="Sky.Cinema.Hits.HD.uk" start="20251006210000 +0000" stop="20251006230000 +0000">
     <title lang="en">Pitch Perfect 2</title>
@@ -108435,4 +108536,4 @@
     <category lang="en">Film</category>
     <icon src="https://tv.assets.pressassociation.io/11bb2db5-1542-5507-b29a-8dc57e95046e.jpg" />
   </programme>
-</tv>
+  </tv>
