@@ -5,149 +5,6 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20251113004600 -0600" stop="20251113030100 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">El señor de los anillos La guerra de los Rohirrim</title>
-  </programme>
-  <programme start="20251113030100 -0600" stop="20251113052100 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Guasón 2 Folie à deux</title>
-  </programme>
-  <programme start="20251113052100 -0600" stop="20251113071600 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Maligno</title>
-  </programme>
-  <programme start="20251113071600 -0600" stop="20251113090100 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Miedo punto com</title>
-  </programme>
-  <programme start="20251113090100 -0600" stop="20251113104600 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Noche de horror</title>
-  </programme>
-  <programme start="20251113104600 -0600" stop="20251113124100 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Destino Final: Lazos de Sangre</title>
-    <desc lang="es">Atormentada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie (Kaitlyn Santa Juana) regresa a casa para buscar a la única persona que podría romper el ciclo y salvar a su familia de la espantosa muerte que inevitablemente les espera a todos.</desc>
-    <credits>
-      <director>Zach Lipovsky</director>
-      <director>Adam Stein</director>
-      <actor>Kaitlyn Santa Juana</actor>
-      <actor>Teo Briones</actor>
-      <actor>Richard Harmon</actor>
-      <actor>Owen Patrick Joyner</actor>
-      <actor>Anna Lore</actor>
-      <actor>Gabrielle Rose</actor>
-      <actor>Brec Bassinger</actor>
-      <actor>Rya Kihlstedt</actor>
-      <producer>Craig Perry</producer>
-      <producer>Sheila Hanahan Taylor</producer>
-      <composer>Tim Wynn</composer>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Terror</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/destino_final_lazos_de_sangre.jpg" />
-    <rating system="MX">
-      <value>R</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20251113124100 -0600" stop="20251113145100 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Terror en Silent Hill</title>
-  </programme>
-  <programme start="20251113145100 -0600" stop="20251113162600 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">La masacre de Texas - El inicio</title>
-  </programme>
-  <programme start="20251113162600 -0600" stop="20251113182100 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Elysium</title>
-  </programme>
-  <programme start="20251113182100 -0600" stop="20251113211100 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Duna: Parte Dos</title>
-    <desc lang="es">Duna: Parte Dos explora el viaje mítico de Paul Atreides (Timothée Chalamet) mientras se une a Chani (Zendaya) y los Fremen en una guerra de venganza contra los conspiradores que destruyeron a su familia. Al enfrentarse a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por evitar un futuro terrible que solo él puede prever.</desc>
-    <credits>
-      <director>Denis Villeneuve</director>
-      <actor>Timothée Chalamet</actor>
-      <actor>Zendaya</actor>
-      <actor>Rebecca Ferguson</actor>
-      <actor>Josh Brolin</actor>
-      <actor>Austin Butler</actor>
-      <actor>Florence Pugh</actor>
-      <actor>Dave Bautista</actor>
-      <actor>Christopher Walken</actor>
-      <producer>Mary Parent</producer>
-      <producer>Cale Boyter</producer>
-      <composer>Hans Zimmer</composer>
-    </credits>
-    <date>2024</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Drama</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/duna_parte_dos.jpg" />
-    <rating system="MX">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MX">
-      <value>9.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20251113211100 -0600" stop="20251113230600 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">Destino Final: Lazos de Sangre</title>
-    <desc lang="es">Atormentada por una violenta pesadilla recurrente, la estudiante universitaria Stefanie (Kaitlyn Santa Juana) regresa a casa para buscar a la única persona que podría romper el ciclo y salvar a su familia de la espantosa muerte que inevitablemente les espera a todos.</desc>
-    <credits>
-      <director>Zach Lipovsky</director>
-      <director>Adam Stein</director>
-      <actor>Kaitlyn Santa Juana</actor>
-      <actor>Teo Briones</actor>
-      <actor>Richard Harmon</actor>
-      <actor>Owen Patrick Joyner</actor>
-      <actor>Anna Lore</actor>
-      <actor>Gabrielle Rose</actor>
-      <actor>Brec Bassinger</actor>
-      <actor>Rya Kihlstedt</actor>
-      <producer>Craig Perry</producer>
-      <producer>Sheila Hanahan Taylor</producer>
-      <composer>Tim Wynn</composer>
-    </credits>
-    <date>2025</date>
-    <category lang="es">Terror</category>
-    <category lang="es">Película</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/destino_final_lazos_de_sangre.jpg" />
-    <rating system="MX">
-      <value>R</value>
-    </rating>
-    <star-rating system="MX">
-      <value>7.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20251113230600 -0600" stop="20251114010600 -0600" channel="Canal.HBO.Plus.mx">
-    <title lang="es">La Quinta Ola</title>
-    <desc lang="es">Cuatro olas de ataques alienígenas han dejado la mayor parte de la tierra devastada. Contra el miedo y la desconfianza, Cassie Sullivan (Chloë Grace Moretz) huye desesperadamente tratando de salvar su pequeño hermano Sammy (Zackary Arthur). Mientras esperan la quita ola, Cassie se une con un joven llamado Evan (Alex Roe), quien podría ser su última esperanza – si tan solo pudiera confiar en él.</desc>
-    <credits>
-      <director>J Blakeson</director>
-      <actor>Chloë Grace Moretz</actor>
-      <actor>Nick Robinson</actor>
-      <actor>Ron Livingston</actor>
-      <actor>Maggie Siff</actor>
-      <actor>Alex Roe</actor>
-      <actor>Maria Bello</actor>
-      <actor>Maika Monroe</actor>
-      <actor>Liev Schreiber</actor>
-      <producer>Graham King</producer>
-      <producer>Tobey Maguire</producer>
-      <composer>Henry Jackman</composer>
-    </credits>
-    <date>2016</date>
-    <category lang="es">Acción</category>
-    <category lang="es">Aventura</category>
-    <category lang="es">Ciencia Ficción</category>
-    <category lang="es">Suspenso</category>
-    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_quinta_ola.jpg" />
-    <rating system="MX">
-      <value>PG-13</value>
-    </rating>
-    <star-rating system="MX">
-      <value>6.0</value>
-    </star-rating>
-  </programme>
   <programme start="20251114010600 -0600" stop="20251114030000 -0600" channel="Canal.HBO.Plus.mx">
     <title lang="es">Perros de paja</title>
   </programme>
@@ -280,6 +137,337 @@
     <star-rating system="MX">
       <value>7.0</value>
     </star-rating>
+  </programme>
+  <programme start="20251114184000 -0600" stop="20251114211500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Batman vs Superman: El Origen de la Justicia</title>
+    <desc lang="es">Temiendo que los actos de Superman (Henry Cavill) no sean castigados, Batman (Ben Affleck) carga contra Superman, mientras el mundo pelea con el tipo de héroe que el mundo en realidad necesita. Con Batman y Superman peleándose entre sí, una nueva amenaza llamada Doomsday, creada por Lex Luthor (Jesse Eisenberg) amenaza con destruir la humanidad. Ahora Batman y Superman deberán superar sus diferencias y unirse junto a la Mujer Maravilla (Gal Gadot) para detener la destrucción de Metrópolis ocasionada por Lex Luthor y Doomsday.</desc>
+    <credits>
+      <director>Zack Snyder</director>
+      <actor>Ben Affleck</actor>
+      <actor>Henry Cavill</actor>
+      <actor>Amy Adams</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Diane Lane</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Jeremy Irons</actor>
+      <actor>Holly Hunter</actor>
+      <producer>Charles Roven</producer>
+      <producer>Deborah Snyder</producer>
+      <composer>Hans Zimmer</composer>
+      <composer>Junkie XL</composer>
+    </credits>
+    <date>2016</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Fantasía</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/batman_vs_superman_el_origen_de_la_justicia.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251114211500 -0600" stop="20251114230000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">The Black Demon</title>
+  </programme>
+  <programme start="20251114230000 -0600" stop="20251115011500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Jurassic Park</title>
+  </programme>
+  <programme start="20251115011500 -0600" stop="20251115030000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">The stepfather</title>
+  </programme>
+  <programme start="20251115030000 -0600" stop="20251115043500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Curse of Chucky</title>
+    <desc lang="es">Cuando un misterioso paquete llega a la casa de Nica (Fiona Dourif), no le da mucha importancia al asunto. Sin embargo, tras la misteriosa muerte de su madre, Nica comienza a sospechar que el muñeco pelirrojo y que habla con el que su sobrina visitante ha estado jugando puede ser la clave del derramamiento de sangre y caos que acontecen.</desc>
+    <credits>
+      <director>Don Mancini</director>
+      <actor>Brad Dourif</actor>
+      <actor>Fiona Dourif</actor>
+      <actor>Danielle Bisutti</actor>
+      <actor>Brennan Elliott</actor>
+      <actor>Maitland McConnell</actor>
+      <actor>Summer H. Howell</actor>
+      <actor>Chantal Quesnelle</actor>
+      <actor>A Martinez</actor>
+      <producer>David Kirschner</producer>
+      <producer>Don Mancini</producer>
+    </credits>
+    <date>2013</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/la_maldicion_de_chucky.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251115043500 -0600" stop="20251115071500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Harry Potter y el cáliz de fuego</title>
+  </programme>
+  <programme start="20251115071500 -0600" stop="20251115092000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Líbranos del Mal</title>
+    <desc lang="es">El oficial de policía de Nueva York, Ralph Sarchie (Eric Bana), quien ha estado luchando con sus problemas personales, inicia la investigación de una serie de crímenes inexplicables. Junto con la ayuda de Mendoza (Édgar Ramírez) – un sacerdote poco ortodoxo con experiencia en exorcismos – combatirán las malvadas posesiones que están creando caos en la ciudad.</desc>
+    <credits>
+      <director>Scott Derrickson</director>
+      <actor>Eric Bana</actor>
+      <actor>Édgar Ramírez</actor>
+      <actor>Olivia Munn</actor>
+      <actor>Sean Harris</actor>
+      <actor>Joel McHale</actor>
+      <producer>Jerry Bruckheimer</producer>
+      <composer>Christopher Young</composer>
+    </credits>
+    <date>2014</date>
+    <category lang="es">Crimen</category>
+    <category lang="es">Horror</category>
+    <category lang="es">Terror</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/libranos_del_mal.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251115092000 -0600" stop="20251115113500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Kraven the Hunter</title>
+    <desc lang="es">Kraven El Cazador es la visceral historia de cómo y por qué surgió uno de los villanos más emblemáticos de Marvel. Aaron Taylor-Johnson interpreta al personaje principal en esta película para adultos, ambientada antes de su famosa venganza contra Spider-Man.</desc>
+    <credits>
+      <director>J. C. Chandor</director>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Ariana DeBose</actor>
+      <actor>Fred Hechinger</actor>
+      <actor>Alessandro Nivola</actor>
+      <actor>Christopher Abbott</actor>
+      <actor>Russell Crowe</actor>
+      <producer>Avi Arad</producer>
+      <producer>Matt Tolmach</producer>
+      <composer>Benjamin Wallfisch</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/kraven_el_cazador.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251115113500 -0600" stop="20251115140000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Everything Everywhere All at Once</title>
+    <desc lang="es">Cuando una ruptura interdimensional amenaza con desentrañar la realidad, el destino del mundo está repentinamente en manos de un héroe muy improbable: Evelyn (Michelle Yeoh), una madre inmigrante abrumada. A medida que se surgen peligros extraños y desconcertantes de los muchos universos posibles, ella debe aprender a canalizar sus nuevos poderes y luchar para salvar su hogar, su familia y a ella misma, en esta aventura divertida y de gran corazón a través del multiverso.</desc>
+    <credits>
+      <director>Daniel Kwan</director>
+      <director>Daniel Scheinert</director>
+      <actor>Michelle Yeoh</actor>
+      <actor>Stephanie Hsu</actor>
+      <actor>Ke Huy Quan</actor>
+      <actor>Jenny Slate</actor>
+      <actor>Harry Shum Jr.</actor>
+      <actor>James Hong</actor>
+      <actor>Jamie Lee Curtis</actor>
+      <producer>Anthony Russo</producer>
+      <producer>Joe Russo</producer>
+      <composer>Son Lux</composer>
+    </credits>
+    <date>2022</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Comedia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/todo_en_todas_partes_al_mismo_tiempo.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251115140000 -0600" stop="20251115154000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Talk to Me</title>
+  </programme>
+  <programme start="20251115154000 -0600" stop="20251115180000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Nosferatu</title>
+  </programme>
+  <programme start="20251115180000 -0600" stop="20251115190000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">HBO Movies</title>
+  </programme>
+  <programme start="20251115190000 -0600" stop="20251115212500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Sinners</title>
+  </programme>
+  <programme start="20251115212500 -0600" stop="20251115233500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Kraven the Hunter</title>
+    <desc lang="es">Kraven El Cazador es la visceral historia de cómo y por qué surgió uno de los villanos más emblemáticos de Marvel. Aaron Taylor-Johnson interpreta al personaje principal en esta película para adultos, ambientada antes de su famosa venganza contra Spider-Man.</desc>
+    <credits>
+      <director>J. C. Chandor</director>
+      <actor>Aaron Taylor-Johnson</actor>
+      <actor>Ariana DeBose</actor>
+      <actor>Fred Hechinger</actor>
+      <actor>Alessandro Nivola</actor>
+      <actor>Christopher Abbott</actor>
+      <actor>Russell Crowe</actor>
+      <producer>Avi Arad</producer>
+      <producer>Matt Tolmach</producer>
+      <composer>Benjamin Wallfisch</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/kraven_el_cazador.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251115233500 -0600" stop="20251116014500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Warcraft</title>
+  </programme>
+  <programme start="20251116014500 -0600" stop="20251116030000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Wolves at the Door</title>
+  </programme>
+  <programme start="20251116030000 -0600" stop="20251116044500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Miedo punto com</title>
+  </programme>
+  <programme start="20251116044500 -0600" stop="20251116070500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Harry Potter y la Orden del Fénix</title>
+    <desc lang="es">Voldemort regresa, Harry Potter y sus amigos deben enfrentarlo con todas sus fuerzas, el ministerio de magia trata de impedir que se sepa la verdad.Voldemort (Ralph Fiennes) ha regresado, pero pocos quieren creerlo. De hecho, el Ministerio de Magia está haciendo todo lo posible para evitar que el mundo mágico sepa la verdad – incluida la designación de la funcionaria del Ministerio Dolores Umbridge (Imelda Staunton) como la nueva profesora de Defensa Contra las Artes Oscuras en Hogwarts.Cuando la profesora Umbridge se niega a entrenar a sus estudiantes en la práctica de la magia defensiva, un grupo selectos de estudiantes decide aprender por su cuenta. Con Harry Potter (Daniel Radcliffe) como su líder, estos estudiantes – que se llaman a sí mismos "Ejército de Dumbledore" – se reúnen en secreto en una habitación oculta en Hogwarts para perfeccionar sus habilidades mágicas en preparación para la batalla con el Señor Oscuro y sus Mortífagos.</desc>
+    <credits>
+      <director>David Yates</director>
+      <actor>Daniel Radcliffe</actor>
+      <actor>Rupert Grint</actor>
+      <actor>Emma Watson</actor>
+      <actor>Helena Bonham Carter</actor>
+      <actor>Robbie Coltrane</actor>
+      <actor>Warwick Davis</actor>
+      <actor>Ralph Fiennes</actor>
+      <actor>Michael Gambon</actor>
+      <producer>David Heyman</producer>
+      <producer>David Barron</producer>
+      <composer>Nicholas Hooper</composer>
+    </credits>
+    <date>2007</date>
+    <category lang="es">Aventura</category>
+    <category lang="es">Familia</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/harry_potter_y_la_orden_del_fenix.jpg" />
+    <country lang="es">Reino Unido</country>
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>8.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251116070500 -0600" stop="20251116090000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Venom: The Last Dance</title>
+    <desc lang="es">En Venom: El Último Baile, Tom Hardy regresa como Venom, uno de los personajes más grandiosos y complejos de Marvel, para la última película de la trilogía. Eddie y Venom están huyendo. Perseguidos por sus dos mundos y con la red cerrándose, el dúo se ve obligado a tomar una decisión devastadora que hará que el último baile de Venom y Eddie termine.</desc>
+    <credits>
+      <director>Kelly Marcel</director>
+      <actor>Tom Hardy</actor>
+      <actor>Chiwetel Ejiofor</actor>
+      <actor>Juno Temple</actor>
+      <actor>Rhys Ifans</actor>
+      <actor>Peggy Lu</actor>
+      <actor>Alanna Ubach</actor>
+      <actor>Stephen Graham</actor>
+      <producer>Avi Arad</producer>
+      <producer>Matt Tolmach</producer>
+      <composer>Dan Deacon</composer>
+    </credits>
+    <date>2024</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/venom_el_ultimo_baile.jpg" />
+    <rating system="MX">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MX">
+      <value>6.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251116090000 -0600" stop="20251116112000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Eso</title>
+  </programme>
+  <programme start="20251116112000 -0600" stop="20251116131000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Annabelle 3: Viene a Casa</title>
+    <desc lang="es">Decididos a evitar que Annabelle cause más estragos, los demonólogos Ed (Patrick Wilson) y Lorraine Warren (Vera Farmiga) llevan a la muñeca poseída a la habitación cerrada con artefactos en su casa, colocándola "a salvo" detrás de un vidrio sagrado y alistando la bendición santa de un sacerdote. Pero una noche profana de horror aguarda a que Annabelle despierte a los espíritus malignos en la habitación, quienes se fijan en un nuevo objetivo: la hija de diez años de los Warrens, Judy (Mckenna Grace) y sus amigas.</desc>
+    <credits>
+      <director>Gary Dauberman</director>
+      <actor>Mckenna Grace</actor>
+      <actor>Madison Iseman</actor>
+      <actor>Katie Sarife</actor>
+      <actor>Patrick Wilson</actor>
+      <actor>Vera Farmiga</actor>
+      <producer>James Wan</producer>
+      <producer>Peter Safran</producer>
+      <composer>Joseph Bishara</composer>
+    </credits>
+    <date>2019</date>
+    <category lang="es">Terror</category>
+    <category lang="es">Misterio</category>
+    <category lang="es">Suspenso</category>
+    <category lang="es">Película</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/annabelle_3_viene_a_casa.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251116131000 -0600" stop="20251116150000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Cuckoo</title>
+  </programme>
+  <programme start="20251116150000 -0600" stop="20251116164000 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Inframundo: La Rebelión de los Lycans</title>
+    <desc lang="es">La historia que antecede los orígenes de la sangrienta enemistad entre los vampiros aristocráticos y los que fueran una vez sus esclavos, los hombres lobo conocidos como licántropos. En la edad de las tinieblas, un joven Licántropo llamado Lucian (Michael Sheen) emerge como un líder todo poderoso que reúne a los hombres lobo para enfrentarse a Viktor (Bill Nighy), el rey vampiro que los ha esclavizado. Lucian se une junto a su amada, Sonja (Rhona Mitra), en su batalla contra la armada de vampiros y su lucha por la libertad de los Licántropos.</desc>
+    <credits>
+      <director>Patrick Tatopoulos</director>
+      <actor>Michael Sheen</actor>
+      <actor>Bill Nighy</actor>
+      <actor>Rhona Mitra</actor>
+      <actor>Kevin Grevioux</actor>
+      <actor>Steven Mackintosh</actor>
+      <actor>Kate Beckinsale</actor>
+      <producer>Len Wiseman</producer>
+      <producer>Tom Rosenberg</producer>
+      <composer>Paul Haslinger</composer>
+    </credits>
+    <date>2009</date>
+    <category lang="es">Acción</category>
+    <category lang="es">Aventura</category>
+    <category lang="es">Fantasía</category>
+    <category lang="es">Ciencia Ficción</category>
+    <category lang="es">Suspenso</category>
+    <icon src="https://imagenes.gatotv.com/categorias/peliculas/miniatura/inframundo_la_rebelion_de_los_lycans.jpg" />
+    <rating system="MX">
+      <value>R</value>
+    </rating>
+    <star-rating system="MX">
+      <value>7.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20251116164000 -0600" stop="20251116181500 -0600" channel="Canal.HBO.Plus.mx">
+    <title lang="es">Inframundo Guerras de sangre</title>
   </programme>
   <channel id="Sky.Sports.Football.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/eed8d25e-5a38-517b-84f7-4a54ca3fa757.png" />
@@ -27048,102 +27236,6 @@
         <display-name lang="en">NFL</display-name>
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/1200px-National_Football_League_logo.svg.png" />
     </channel>
-    <programme start="20251113000000 +0000" stop="20251113010000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113010000 +0000" stop="20251113020000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113020000 +0000" stop="20251113030000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113030000 +0000" stop="20251113040000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113040000 +0000" stop="20251113050000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113050000 +0000" stop="20251113060000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113060000 +0000" stop="20251113070000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113070000 +0000" stop="20251113080000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113080000 +0000" stop="20251113090000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113090000 +0000" stop="20251113100000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113100000 +0000" stop="20251113110000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113110000 +0000" stop="20251113120000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113120000 +0000" stop="20251113130000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113130000 +0000" stop="20251113140000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113140000 +0000" stop="20251113150000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113160000 +0000" stop="20251113170000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113170000 +0000" stop="20251113180000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113180000 +0000" stop="20251113190000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113190000 +0000" stop="20251113200000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113200000 +0000" stop="20251113210000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113210000 +0000" stop="20251113220000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
-    <programme start="20251113230000 +0000" stop="20251113235900 +0000" channel="MLB.Baseball.Dummy.us">
-        <title lang="en">MLB Baseball</title>
-        <desc lang="en">MLB Baseball</desc>
-    </programme>
     <programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="MLB.Baseball.Dummy.us">
         <title lang="en">MLB Baseball</title>
         <desc lang="en">MLB Baseball</desc>
@@ -27432,101 +27524,101 @@
         <title lang="en">MLB Baseball</title>
         <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113000000 +0000" stop="20251113010000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117000000 +0000" stop="20251117010000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113010000 +0000" stop="20251113020000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117010000 +0000" stop="20251117020000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113020000 +0000" stop="20251113030000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117020000 +0000" stop="20251117030000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113030000 +0000" stop="20251113040000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113040000 +0000" stop="20251113050000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117040000 +0000" stop="20251117050000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113050000 +0000" stop="20251113060000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113060000 +0000" stop="20251113070000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117060000 +0000" stop="20251117070000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113070000 +0000" stop="20251113080000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117070000 +0000" stop="20251117080000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113080000 +0000" stop="20251113090000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117080000 +0000" stop="20251117090000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113090000 +0000" stop="20251113100000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117090000 +0000" stop="20251117100000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113100000 +0000" stop="20251113110000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113110000 +0000" stop="20251113120000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113120000 +0000" stop="20251113130000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113130000 +0000" stop="20251113140000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117130000 +0000" stop="20251117140000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113140000 +0000" stop="20251113150000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117140000 +0000" stop="20251117150000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117150000 +0000" stop="20251117160000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113160000 +0000" stop="20251113170000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117160000 +0000" stop="20251117170000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113170000 +0000" stop="20251113180000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117170000 +0000" stop="20251117180000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113180000 +0000" stop="20251113190000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117180000 +0000" stop="20251117190000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113190000 +0000" stop="20251113200000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117190000 +0000" stop="20251117200000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113200000 +0000" stop="20251113210000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117200000 +0000" stop="20251117210000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113210000 +0000" stop="20251113220000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117210000 +0000" stop="20251117220000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
-    <programme start="20251113230000 +0000" stop="20251113235900 +0000" channel="NBA.Basketball.Dummy.us">
-        <title lang="en">NBA Basketball</title>
-        <desc lang="en">NBA Basketball</desc>
+    <programme start="20251117230000 +0000" stop="20251117235900 +0000" channel="MLB.Baseball.Dummy.us">
+        <title lang="en">MLB Baseball</title>
+        <desc lang="en">MLB Baseball</desc>
     </programme>
     <programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="NBA.Basketball.Dummy.us">
         <title lang="en">NBA Basketball</title>
@@ -27816,101 +27908,101 @@
         <title lang="en">NBA Basketball</title>
         <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113000000 +0000" stop="20251113010000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117000000 +0000" stop="20251117010000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113010000 +0000" stop="20251113020000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117010000 +0000" stop="20251117020000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113020000 +0000" stop="20251113030000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117020000 +0000" stop="20251117030000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113030000 +0000" stop="20251113040000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113040000 +0000" stop="20251113050000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117040000 +0000" stop="20251117050000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113050000 +0000" stop="20251113060000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113060000 +0000" stop="20251113070000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117060000 +0000" stop="20251117070000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113070000 +0000" stop="20251113080000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117070000 +0000" stop="20251117080000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113080000 +0000" stop="20251113090000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117080000 +0000" stop="20251117090000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113090000 +0000" stop="20251113100000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117090000 +0000" stop="20251117100000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113100000 +0000" stop="20251113110000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113110000 +0000" stop="20251113120000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113120000 +0000" stop="20251113130000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113130000 +0000" stop="20251113140000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117130000 +0000" stop="20251117140000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113140000 +0000" stop="20251113150000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117140000 +0000" stop="20251117150000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117150000 +0000" stop="20251117160000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113160000 +0000" stop="20251113170000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117160000 +0000" stop="20251117170000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113170000 +0000" stop="20251113180000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117170000 +0000" stop="20251117180000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113180000 +0000" stop="20251113190000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117180000 +0000" stop="20251117190000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113190000 +0000" stop="20251113200000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117190000 +0000" stop="20251117200000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113200000 +0000" stop="20251113210000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117200000 +0000" stop="20251117210000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113210000 +0000" stop="20251113220000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117210000 +0000" stop="20251117220000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
-    <programme start="20251113230000 +0000" stop="20251113235900 +0000" channel="NHL.Hockey.Dummy.us">
-        <title lang="en">NHL Hockey No subtitle</title>
-        <desc lang="en">NHL Hockey</desc>
+    <programme start="20251117230000 +0000" stop="20251117235900 +0000" channel="NBA.Basketball.Dummy.us">
+        <title lang="en">NBA Basketball</title>
+        <desc lang="en">NBA Basketball</desc>
     </programme>
     <programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="NHL.Hockey.Dummy.us">
         <title lang="en">NHL Hockey No subtitle</title>
@@ -28200,101 +28292,101 @@
         <title lang="en">NHL Hockey No subtitle</title>
         <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113000000 +0000" stop="20251113010000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117000000 +0000" stop="20251117010000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113010000 +0000" stop="20251113020000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117010000 +0000" stop="20251117020000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113020000 +0000" stop="20251113030000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117020000 +0000" stop="20251117030000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113030000 +0000" stop="20251113040000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113040000 +0000" stop="20251113050000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117040000 +0000" stop="20251117050000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113050000 +0000" stop="20251113060000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113060000 +0000" stop="20251113070000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117060000 +0000" stop="20251117070000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113070000 +0000" stop="20251113080000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117070000 +0000" stop="20251117080000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113080000 +0000" stop="20251113090000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117080000 +0000" stop="20251117090000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113090000 +0000" stop="20251113100000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117090000 +0000" stop="20251117100000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113100000 +0000" stop="20251113110000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113110000 +0000" stop="20251113120000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113120000 +0000" stop="20251113130000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113130000 +0000" stop="20251113140000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117130000 +0000" stop="20251117140000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113140000 +0000" stop="20251113150000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117140000 +0000" stop="20251117150000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117150000 +0000" stop="20251117160000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113160000 +0000" stop="20251113170000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117160000 +0000" stop="20251117170000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113170000 +0000" stop="20251113180000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117170000 +0000" stop="20251117180000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113180000 +0000" stop="20251113190000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117180000 +0000" stop="20251117190000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113190000 +0000" stop="20251113200000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117190000 +0000" stop="20251117200000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113200000 +0000" stop="20251113210000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117200000 +0000" stop="20251117210000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113210000 +0000" stop="20251113220000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117210000 +0000" stop="20251117220000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
-    <programme start="20251113230000 +0000" stop="20251113235900 +0000" channel="PPV.EVENTS.Dummy.us">
-        <title lang="en">PPV EVENT</title>
-        <desc lang="en">PPV EVENT</desc>
+    <programme start="20251117230000 +0000" stop="20251117235900 +0000" channel="NHL.Hockey.Dummy.us">
+        <title lang="en">NHL Hockey No subtitle</title>
+        <desc lang="en">NHL Hockey</desc>
     </programme>
     <programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="PPV.EVENTS.Dummy.us">
         <title lang="en">PPV EVENT</title>
@@ -28584,101 +28676,101 @@
         <title lang="en">PPV EVENT</title>
         <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113000000 +0000" stop="20251113010000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117000000 +0000" stop="20251117010000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113010000 +0000" stop="20251113020000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117010000 +0000" stop="20251117020000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113020000 +0000" stop="20251113030000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117020000 +0000" stop="20251117030000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113030000 +0000" stop="20251113040000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113040000 +0000" stop="20251113050000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117040000 +0000" stop="20251117050000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113050000 +0000" stop="20251113060000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113060000 +0000" stop="20251113070000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117060000 +0000" stop="20251117070000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113070000 +0000" stop="20251113080000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117070000 +0000" stop="20251117080000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113080000 +0000" stop="20251113090000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117080000 +0000" stop="20251117090000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113090000 +0000" stop="20251113100000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117090000 +0000" stop="20251117100000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113100000 +0000" stop="20251113110000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113110000 +0000" stop="20251113120000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113120000 +0000" stop="20251113130000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113130000 +0000" stop="20251113140000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117130000 +0000" stop="20251117140000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113140000 +0000" stop="20251113150000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117140000 +0000" stop="20251117150000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113150000 +0000" stop="20251113160000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117150000 +0000" stop="20251117160000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113160000 +0000" stop="20251113170000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117160000 +0000" stop="20251117170000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113170000 +0000" stop="20251113180000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117170000 +0000" stop="20251117180000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113180000 +0000" stop="20251113190000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117180000 +0000" stop="20251117190000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113190000 +0000" stop="20251113200000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117190000 +0000" stop="20251117200000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113200000 +0000" stop="20251113210000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117200000 +0000" stop="20251117210000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113210000 +0000" stop="20251113220000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117210000 +0000" stop="20251117220000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113220000 +0000" stop="20251113230000 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
-    <programme start="20251113230000 +0000" stop="20251113235900 +0000" channel="NFL.Dummy.us">
-        <title lang="en">NFL</title>
-        <desc lang="en">NFL</desc>
+    <programme start="20251117230000 +0000" stop="20251117235900 +0000" channel="PPV.EVENTS.Dummy.us">
+        <title lang="en">PPV EVENT</title>
+        <desc lang="en">PPV EVENT</desc>
     </programme>
     <programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="NFL.Dummy.us">
         <title lang="en">NFL</title>
@@ -28968,6 +29060,102 @@
         <title lang="en">NFL</title>
         <desc lang="en">NFL</desc>
     </programme>
+    <programme start="20251117000000 +0000" stop="20251117010000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117010000 +0000" stop="20251117020000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117020000 +0000" stop="20251117030000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117030000 +0000" stop="20251117040000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117040000 +0000" stop="20251117050000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117050000 +0000" stop="20251117060000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117060000 +0000" stop="20251117070000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117070000 +0000" stop="20251117080000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117080000 +0000" stop="20251117090000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117090000 +0000" stop="20251117100000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117100000 +0000" stop="20251117110000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117110000 +0000" stop="20251117120000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117120000 +0000" stop="20251117130000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117130000 +0000" stop="20251117140000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117140000 +0000" stop="20251117150000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117150000 +0000" stop="20251117160000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117160000 +0000" stop="20251117170000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117170000 +0000" stop="20251117180000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117180000 +0000" stop="20251117190000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117190000 +0000" stop="20251117200000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117200000 +0000" stop="20251117210000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117210000 +0000" stop="20251117220000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117220000 +0000" stop="20251117230000 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
+    <programme start="20251117230000 +0000" stop="20251117235900 +0000" channel="NFL.Dummy.us">
+        <title lang="en">NFL</title>
+        <desc lang="en">NFL</desc>
+    </programme>
     <channel id="plex.tv.CBS.Sports.Golazo.Network.plex">
     <display-name lang="en">CBS Sports Golazo Network</display-name>
     <icon src="https://images.pluto.tv/series/650303e46b9e3e00139acba0/poster_1750457052856.jpg?fm=jpg" />
@@ -28992,723 +29180,6 @@
     <icon src="http://www.tmsimg.com/assets/p31571439_i_s4_aa.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <programme start="20251114040000 +0000" stop="20251114050000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114050000 +0000" stop="20251114060000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114060000 +0000" stop="20251114063000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">UEFA Champions League - Matchday 4 Goals</title>
-    <desc lang="en">All the goals from Matchday 4 in the UEFA Champions League.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/690e66046e0067f40d0fa267/poster16_9_1762551302044.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114063000 +0000" stop="20251114070000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/670437fae87eac0013a574f6/poster16_9_1762881677275.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114070000 +0000" stop="20251114080000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114080000 +0000" stop="20251114083000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">UEFA Champions League - Matchday 4 Goals</title>
-    <desc lang="en">All the goals from Matchday 4 in the UEFA Champions League.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/690e66046e0067f40d0fa267/poster16_9_1762551302044.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114083000 +0000" stop="20251114090000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/670437fae87eac0013a574f6/poster16_9_1762881677275.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114090000 +0000" stop="20251114100000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114100000 +0000" stop="20251114103000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">UEFA Champions League - Matchday 4 Goals</title>
-    <desc lang="en">All the goals from Matchday 4 in the UEFA Champions League.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/690e66046e0067f40d0fa267/poster16_9_1762551302044.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114103000 +0000" stop="20251114110000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/670437fae87eac0013a574f6/poster16_9_1762881677275.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114110000 +0000" stop="20251114120000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114120000 +0000" stop="20251114130000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Attacking Third</title>
-    <desc lang="en">A studio show dedicated exclusively to comprehensive coverage of the top domestic and international women's soccer competitions.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/670437f8e87eac0013a56bc4/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114130000 +0000" stop="20251114150000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Morning Footy</title>
-    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p24370982_b_h10_ad.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114150000 +0000" stop="20251114170000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Morning Footy</title>
-    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p24370982_b_h10_ad.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114170000 +0000" stop="20251114190000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Morning Footy</title>
-    <desc lang="en">Kick off your day with our daily morning soccer show, bringing you the latest news from across the globe, match highlights, interviews and more.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p24370982_b_h10_ad.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114190000 +0000" stop="20251114203000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Best of Morning Footy</title>
-    <desc lang="en">CBS SPORTS GOLAZO NETWORK is a first-of-its-kind free, 24-hour channel in the U.S.dedicated exclusively to global soccer coverage. CBS SPORTS GOLAZO NETWORK, with its unparalleled coverage of all the top domestic and international soccer competitions across the globe, is the ultimate year-round streaming destination for soccer fans. CBS SPORTS GOLAZO NETWORK is anchored weekdays from 7:00-9:00 AM, ET, by - MORNING FOOTY, the Network’s flagship morning show. Every weekday, MORNING FOOTY host Susannah Collins along with former U.S. Men’s National Team player Charlie Davies, analyst Nico Cantor and comedian Alexis Guerreros bring their unique voices and fresh perspectives to the latest news and storylines impacting soccer worldwide. As soccer’s new staple show for fans everywhere, MORNING FOOTY delivers a daily dose of razor-sharp insights and laughs with match highlights, compelling analysis, entertaining interviews, updates - from reporter Jenny Chiu and more that is sure to help kick off your day. In addition, the Network will feature live matches, pre- and post-match breakdowns, magazine shows, films from Paramount+’s STORIES FROM THE BEAUTIFUL GAME soccer documentary collection and original programming. The Network’s live matches and re-airs utilize CBS Sports’ collection of top-tier soccer properties, including UEFA club competitions, Serie A, NWSL, Concacaf national team competitions, Barclays Women’s Super League, Campeonato Brasileirão Série A, Scottish Professional Football League, Argentina Liga Profesional de Fútbol and the AFC Champions League, among others. Watch CBS SPORTS GOLAZO NETWORK 24 hours a day, 7 days a week and all 365 days a year.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/670437fae87eac0013a574b6/poster16_9.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114203000 +0000" stop="20251114213000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">UEFA Champions League - Matchday 3 Goals</title>
-    <desc lang="en">All the goals from Matchday 3 in the UEFA Champions League.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/68f8e4b13fb09016da937c26/poster16_9_1761274332536.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114213000 +0000" stop="20251114220000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">UEFA Champions League - Matchday 4 Goals</title>
-    <desc lang="en">All the goals from Matchday 4 in the UEFA Champions League.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://images.pluto.tv/episodes/690e66046e0067f40d0fa267/poster16_9_1762551302044.jpg?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114220000 +0000" stop="20251114230000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114230000 +0000" stop="20251115000000 +0000" channel="plex.tv.CBS.Sports.Golazo.Network.plex">
-    <title lang="en">Scoreline: Soccer Highlights &amp; Analysis</title>
-    <desc lang="en">The biggest news impacting global football, and match highlights.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://plut.tmsimg.com/assets/p25657559_b_h10_af.jpg?w=1560?fm=jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>Not Rated</value>
-    </rating>
-  </programme>
-  <programme start="20251114000000 +0000" stop="20251114010000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E42</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114010000 +0000" stop="20251114020000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E40</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114020000 +0000" stop="20251114023000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Scrollin' With Jen &amp; Vee</title>
-    <desc lang="en">Join Jen and Vee as they dive into the world of social media trends and viral moments.</desc>
-    <date>2025</date>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Talk</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/44c7682d705108c918584fab756cf78a.jpg" />
-    <episode-num system="onscreen">S3 E29</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114023000 +0000" stop="20251114030000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Scrollin' With Jen &amp; Vee</title>
-    <desc lang="en">Join Jen and Vee as they dive into the world of social media trends and viral moments.</desc>
-    <date>2025</date>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/44c7682d705108c918584fab756cf78a.jpg" />
-    <episode-num system="onscreen">S3 E14</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114030000 +0000" stop="20251114033000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Scrollin' With Jen &amp; Vee</title>
-    <desc lang="en">Join Jen and Vee as they dive into the world of social media trends and viral moments.</desc>
-    <date>2025</date>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/44c7682d705108c918584fab756cf78a.jpg" />
-    <episode-num system="onscreen">S3 E24</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114033000 +0000" stop="20251114040000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Nightcap</title>
-    <desc lang="en">Exploring provocative topics with an open mind and a cocktail in hand.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/209a48d1128c4f45d45e22ff7778b5da.jpg" />
-    <episode-num system="onscreen">S4 E17</episode-num>
-    <rating system="US">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20251114040000 +0000" stop="20251114043000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Nightcap</title>
-    <desc lang="en">Exploring provocative topics with an open mind and a cocktail in hand.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/209a48d1128c4f45d45e22ff7778b5da.jpg" />
-    <episode-num system="onscreen">S4 E12</episode-num>
-    <rating system="US">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20251114043000 +0000" stop="20251114050000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Nightcap</title>
-    <desc lang="en">Exploring provocative topics with an open mind and a cocktail in hand.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/209a48d1128c4f45d45e22ff7778b5da.jpg" />
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <rating system="US">
-      <value>TV-MA</value>
-    </rating>
-  </programme>
-  <programme start="20251114050000 +0000" stop="20251114053000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S3 E25</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114053000 +0000" stop="20251114060000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S3 E24</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114060000 +0000" stop="20251114063000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S3 E23</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114063000 +0000" stop="20251114070000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114070000 +0000" stop="20251114080000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E43</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114080000 +0000" stop="20251114090000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E41</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114090000 +0000" stop="20251114093000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S3 E25</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114093000 +0000" stop="20251114100000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S3 E24</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114100000 +0000" stop="20251114103000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S3 E23</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114103000 +0000" stop="20251114110000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114110000 +0000" stop="20251114113000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Portia</title>
-    <sub-title lang="en">Holiday Style, Save &amp; Repeat</sub-title>
-    <desc lang="en">PORTIA is a community-minded lifestyle program, focusing particularly on the needs of Black women.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
-    <episode-num system="onscreen">S4 E59</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114113000 +0000" stop="20251114120000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Portia</title>
-    <sub-title lang="en">Stretching the Wardrobe</sub-title>
-    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
-    <date>2024</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
-    <episode-num system="onscreen">S3 E29</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114120000 +0000" stop="20251114123000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Portia</title>
-    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
-    <episode-num system="onscreen">S4 E44</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114123000 +0000" stop="20251114130000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Portia</title>
-    <desc lang="en">A community-minded lifestyle program, focusing particularly on the needs of Black women; it will inform, uplift and enlighten through conversations about faith, family, health and social issues.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Interview</category>
-    <category lang="en">Community</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://metadata-static.plex.tv/5/gracenote/5656b362172d7c2acab9dbf64def8431.jpg" />
-    <episode-num system="onscreen">S3 E99</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114130000 +0000" stop="20251114133000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Chattin' With Chelsea</title>
-    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
-    <episode-num system="onscreen">S2 E28</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114133000 +0000" stop="20251114140000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Chattin' With Chelsea</title>
-    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
-    <episode-num system="onscreen">S2 E23</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114140000 +0000" stop="20251114143000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Chattin' With Chelsea</title>
-    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
-    <episode-num system="onscreen">S2 E18</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114143000 +0000" stop="20251114150000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Chattin' With Chelsea</title>
-    <desc lang="en">Chelsea interviews celebrities, discusses trending topics and shares fun stories.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9de70903672169a2865ad18d018877dd.jpg" />
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114150000 +0000" stop="20251114160000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E41</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114160000 +0000" stop="20251114170000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E42</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114170000 +0000" stop="20251114180000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E40</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114180000 +0000" stop="20251114183000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Divorce Court</title>
-    <sub-title lang="en">Big Fat Lying Fiance: Melinda Segrest vs. Lavell Clayton</sub-title>
-    <desc lang="en">Melinda says her fiancé has a habit of disappearing and ignoring her calls; she hopes the polygraph test will give her the answers she needs to continue in this relationship.</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
-    <episode-num system="onscreen">S26 E36</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114183000 +0000" stop="20251114190000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Divorce Court</title>
-    <sub-title lang="en">Evicted Out My Heart: Tylinsa Hall vs. Eric Larry</sub-title>
-    <desc lang="en">Tylinsa says her fiancé is a narcissist who takes her for granted and is financially irresponsible.</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
-    <episode-num system="onscreen">S26 E31</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114190000 +0000" stop="20251114193000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Divorce Court</title>
-    <sub-title lang="en">Long Distance Love: Chris Cullum vs. Laura Dillard</sub-title>
-    <desc lang="en">Chris says that when he went to Alabama to visit Laura he went through her phone and saw a text message from a guy named Gary, who asked whether was she still planning on visiting him in South Carolina.</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
-    <episode-num system="onscreen">S26 E32</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114193000 +0000" stop="20251114200000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Divorce Court</title>
-    <sub-title lang="en">If You Got With Her, I'm Gone: Tiana Hicks vs. Terrance Hicks</sub-title>
-    <desc lang="en">Tiana says her husband's poor money management, compulsive gambling and infidelity have landed them in "Divorce Court.".</desc>
-    <date>2024</date>
-    <category lang="en">Reality</category>
-    <category lang="en">Law</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b097fc18325e7115b385c29beb825c3e.jpg" />
-    <episode-num system="onscreen">S26 E33</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114200000 +0000" stop="20251114210000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E44</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114210000 +0000" stop="20251114220000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E43</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114220000 +0000" stop="20251114230000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">The Isiah Factor Uncensored</title>
-    <desc lang="en">News anchor and reporter Isiah Carey tackles hot-button news issues with a no-holds-barred attitude.</desc>
-    <date>2025</date>
-    <category lang="en">News</category>
-    <category lang="en">Entertainment</category>
-    <icon src="https://metadata-static.plex.tv/d/gracenote/d44910d534ebdfca9143113abf691567.jpg" />
-    <episode-num system="onscreen">S8 E42</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20251114230000 +0000" stop="20251115000000 +0000" channel="plex.tv.FOX.SOUL.plex">
-    <title lang="en">Side Dish</title>
-    <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
-    <date>2025</date>
-    <category lang="en">Talk</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">News</category>
-    <icon src="https://metadata-static.plex.tv/a/gracenote/ad54736c980714322988ca27faff205d.jpg" />
-    <episode-num system="onscreen">S2 E42</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20251115000000 +0000" stop="20251115010000 +0000" channel="plex.tv.FOX.SOUL.plex">
     <title lang="en">Side Dish</title>
     <desc lang="en">An interactive YouTube live show featuring Dish Nation hosts Headkrack and Tanner Thomason.</desc>
@@ -30180,451 +29651,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20251114000000 +0000" stop="20251114003000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Rob Warner’s Wild Rides</title>
-    <sub-title lang="en">Lesotho</sub-title>
-    <desc lang="en">Rob Warner, along with Matt Jones, head to Lesotho where they experience a different kind of racing.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/RWWR104_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114003000 +0000" stop="20251114010000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Rob Warner’s Wild Rides</title>
-    <sub-title lang="en">Ecuador</sub-title>
-    <desc lang="en">Rob Warner travels to Ecuador with rising MTB star Finn Iles to take on the Cotopaxi in the Andes.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/RWWR104_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114010000 +0000" stop="20251114013000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Dirt</title>
-    <sub-title lang="en">Seattle</sub-title>
-    <desc lang="en">We travel to the coast in pursuit of local ingredients and explore the tidal flats of a shellfish farm.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114013000 +0000" stop="20251114020000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Dirt</title>
-    <sub-title lang="en">New Orleans</sub-title>
-    <desc lang="en">Adventure and food have always been interconnected. Each episode features adventures and the local cuisine.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114020000 +0000" stop="20251114023000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Huckberry Homes</title>
-    <sub-title lang="en">Explore An Austin Musician's Bohemian Bungalow</sub-title>
-    <desc lang="en">Scott Ballew is a filmmaker and songwriter who owns a Bohemian bungalow in the heart of Austin’s first suburb.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/HBH102_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114023000 +0000" stop="20251114030000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Huckberry Homes</title>
-    <sub-title lang="en">How This Photographer Manifested His Dream Home on the Oregon Coast</sub-title>
-    <desc lang="en">We set our sights on the Oregon coast and flew out to see our friends Ben Moon and Sophie Kuller.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/HBH102_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114030000 +0000" stop="20251114033000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Facing Waves</title>
-    <sub-title lang="en">Sea Kayaking Lake Superior 1</sub-title>
-    <desc lang="en">Part 1 of Ken Whiting's solo sea kayaking expedition of the unforgiving Lake Superior Provincial Park.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/FWS1103_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S12 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114033000 +0000" stop="20251114040000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Facing Waves</title>
-    <sub-title lang="en">Sea Kayaking Lake Superior 2</sub-title>
-    <desc lang="en">Part 2 of Ken Whiting's solo sea kayaking expedition of the unforgiving Lake Superior Provincial Park.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/FWS1103_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S12 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114040000 +0000" stop="20251114050000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">THRU: The Pacific Northwest</title>
-    <sub-title lang="en">Heat, Miles, and Tension</sub-title>
-    <desc lang="en">It’s clear that the heat, long miles, and distant finish are drawing tension between team members ahead.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/THRU101_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114050000 +0000" stop="20251114053000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Epic Trails</title>
-    <sub-title lang="en">Newfoundland</sub-title>
-    <desc lang="en">Epic Trails follows wilderness adventurer, Eric Hanson, on his journey to discover the world’s top trails.</desc>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/ETS205_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114053000 +0000" stop="20251114060000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Epic Trails</title>
-    <sub-title lang="en">Australia</sub-title>
-    <desc lang="en">Epic Trails follows wilderness adventurer, Eric Hanson, on his journey to discover the world’s top trails.</desc>
-    <date>2020</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/ETS205_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114060000 +0000" stop="20251114063000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Rob Warner’s Wild Rides</title>
-    <sub-title lang="en">Lesotho</sub-title>
-    <desc lang="en">Rob Warner, along with Matt Jones, head to Lesotho where they experience a different kind of racing.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/RWWR104_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114063000 +0000" stop="20251114070000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Rob Warner’s Wild Rides</title>
-    <sub-title lang="en">Ecuador</sub-title>
-    <desc lang="en">Rob Warner travels to Ecuador with rising MTB star Finn Iles to take on the Cotopaxi in the Andes.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/RWWR104_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114070000 +0000" stop="20251114073000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Dirt</title>
-    <sub-title lang="en">Seattle</sub-title>
-    <desc lang="en">We travel to the coast in pursuit of local ingredients and explore the tidal flats of a shellfish farm.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114073000 +0000" stop="20251114080000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Dirt</title>
-    <sub-title lang="en">New Orleans</sub-title>
-    <desc lang="en">Adventure and food have always been interconnected. Each episode features adventures and the local cuisine.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114080000 +0000" stop="20251114083000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Huckberry Homes</title>
-    <sub-title lang="en">Explore An Austin Musician's Bohemian Bungalow</sub-title>
-    <desc lang="en">Scott Ballew is a filmmaker and songwriter who owns a Bohemian bungalow in the heart of Austin’s first suburb.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/HBH102_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114083000 +0000" stop="20251114090000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Huckberry Homes</title>
-    <sub-title lang="en">How This Photographer Manifested His Dream Home on the Oregon Coast</sub-title>
-    <desc lang="en">We set our sights on the Oregon coast and flew out to see our friends Ben Moon and Sophie Kuller.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/HBH102_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114090000 +0000" stop="20251114100000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Blackwaters: Brothers in the Wild</title>
-    <desc lang="en">Blackwater encompasses the power of five Black men whose paths have had challenges on and off the water.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BBITW101_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114100000 +0000" stop="20251114110000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Journey to Infinity</title>
-    <desc lang="en">Jason Hardrath and Nathan Longhurst embarked on a journey to Mexico's tallest volcano, Pico De Orizaba.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/JTI101_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114110000 +0000" stop="20251114123000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">No Man's Land</title>
-    <desc lang="en">Few have been traveling to Antarctica to climb Mt. Vinson. Now to freeskiers dare to ski inside the continent.</desc>
-    <date>2021</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/NML101_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114123000 +0000" stop="20251114130000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Explorers</title>
-    <sub-title lang="en">The Huber Buam at Mt. Asgard</sub-title>
-    <desc lang="en">Swiss speed climbing legend Ueli Steck conquers in free solo style this trio of threat in only hours.</desc>
-    <date>2021</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/EXP105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114130000 +0000" stop="20251114133000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Ascend TV</title>
-    <sub-title lang="en">Tubes</sub-title>
-    <desc lang="en">Drew Brophy faced an unexpected turn in life—a fierce struggle against illness, a battle for life itself.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UADTV405_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114133000 +0000" stop="20251114140000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Ascend TV</title>
-    <sub-title lang="en">Peaks</sub-title>
-    <desc lang="en">Jungfrau's via Ferrata offers non-climbers an opportunity to intimately experience this renowned mountain.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UADTV405_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114140000 +0000" stop="20251114150000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">THRU: The Pacific Northwest</title>
-    <sub-title lang="en">Heat, Miles, and Tension</sub-title>
-    <desc lang="en">It’s clear that the heat, long miles, and distant finish are drawing tension between team members ahead.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/THRU101_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114150000 +0000" stop="20251114153000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Facing Waves</title>
-    <sub-title lang="en">Sea Kayaking Lake Superior 1</sub-title>
-    <desc lang="en">Part 1 of Ken Whiting's solo sea kayaking expedition of the unforgiving Lake Superior Provincial Park.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/FWS1103_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S12 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114153000 +0000" stop="20251114160000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Facing Waves</title>
-    <sub-title lang="en">Sea Kayaking Lake Superior 2</sub-title>
-    <desc lang="en">Part 2 of Ken Whiting's solo sea kayaking expedition of the unforgiving Lake Superior Provincial Park.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/FWS1103_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S12 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114160000 +0000" stop="20251114163000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Dirt</title>
-    <sub-title lang="en">Seattle</sub-title>
-    <desc lang="en">We travel to the coast in pursuit of local ingredients and explore the tidal flats of a shellfish farm.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114163000 +0000" stop="20251114170000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Dirt</title>
-    <sub-title lang="en">New Orleans</sub-title>
-    <desc lang="en">Adventure and food have always been interconnected. Each episode features adventures and the local cuisine.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/DRT105_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114170000 +0000" stop="20251114173000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Huckberry Homes</title>
-    <sub-title lang="en">The Explorers Club's Members-Only Clubhouse</sub-title>
-    <desc lang="en">We travel to New York to get a rare look inside The Explorers Club headquarters.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/HBH102_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114173000 +0000" stop="20251114180000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Huckberry Homes</title>
-    <sub-title lang="en">How This Photographer Manifested His Dream Home on the Oregon Coast</sub-title>
-    <desc lang="en">We set our sights on the Oregon coast and flew out to see our friends Ben Moon and Sophie Kuller.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/HBH102_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114180000 +0000" stop="20251114183000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">No Days Off</title>
-    <sub-title lang="en">Climbing’s Newest Hotbed</sub-title>
-    <desc lang="en">Sasha travels to Manikia, a small village in Greece, to experience an emerging climbing destination.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/NDOF107_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114183000 +0000" stop="20251114190000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">No Days Off</title>
-    <sub-title lang="en">Players for the Planet</sub-title>
-    <desc lang="en">Sasha travels to the unlikely climbing destination of the Dominican Republic.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/NDOF107_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114190000 +0000" stop="20251114193000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">PaddyO Sucks at</title>
-    <sub-title lang="en">Fly Fishing</sub-title>
-    <desc lang="en">PaddyO learns everything from how to rig a rod, where to find fish, and how not to tangle his hook.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/POSA101_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114193000 +0000" stop="20251114200000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">PaddyO Sucks at</title>
-    <sub-title lang="en">Orienteering</sub-title>
-    <desc lang="en">Sucking at any given sport can be frustrating; sucking at navigating the backcountry can be terrifying.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/POSA101_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114200000 +0000" stop="20251114210000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">IRONMAN 70.3 World Championship Marbella - Women's Race November 2025</title>
-    <desc lang="en">The IRONMAN 70.3 World Championship Marbella Women's Race.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/IMR2025117_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114210000 +0000" stop="20251114220000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">IRONMAN 70.3 World Championship Marbella - Men's Race November 2025</title>
-    <desc lang="en">The IRONMAN 70.3 World Championship Marbella Men's Race.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/IMR2025118_Episode_16x9.jpg" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114220000 +0000" stop="20251114230000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">HOKA UTMB Kodiak Ultra Marathon 2025</title>
-    <desc lang="en">HOKA Kodiak Ultra Marathons by UTMB hosts beautiful mountain views, a few hours from Los Angeles, California.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/UTMBK101_Episode_16x9.jpg" />
-    <premiere lang="en" />
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114230000 +0000" stop="20251115000000 +0000" channel="plex.tv.Outside.plex">
-    <title lang="en">Beat Monday</title>
-    <sub-title lang="en">Weekend Escape</sub-title>
-    <desc lang="en">Epic weekend adventures designed to push the boundaries of what's possible.</desc>
-    <date>2022</date>
-    <category lang="en">Sports</category>
-    <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/BMD201_Episode_16x9.jpg" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
   <programme start="20251115000000 +0000" stop="20251115003000 +0000" channel="plex.tv.Outside.plex">
     <title lang="en">Adventure Cities</title>
     <sub-title lang="en">Banff &amp; Lake Louise and St. Pete Clearwater</sub-title>
@@ -30955,204 +29981,6 @@
     <category lang="en">Sports</category>
     <icon src="https://d18cnrfbbie93.cloudfront.net/OTV/episode/ETS205_Episode_16x9.jpg" />
     <episode-num system="onscreen">S2 E9</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114000000 +0000" stop="20251114030000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 75 Albuquerque: Mundell vs. Sanchez</title>
-    <desc lang="en">David Mundell vs. Donald Sanchez, middleweight championship. From Tingley Coliseum in Albuquerque, N.M.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p30219678_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114030000 +0000" stop="20251114040000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Professional Fighters League</title>
-    <desc lang="en">From June 13, 2024 at Mohegan Sun Arena in Uncasville, Conn.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114040000 +0000" stop="20251114050000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Professional Fighters League</title>
-    <desc lang="en">From Jon M. Huntsman Center in Salt Lake City.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>FSK 18</value>
-    </rating>
-  </programme>
-  <programme start="20251114050000 +0000" stop="20251114060000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Professional Fighters League</title>
-    <desc lang="en">From June 28, 2024 at Sanford Pentagon in Sioux Falls, S.D.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114060000 +0000" stop="20251114090000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 75 Albuquerque: Mundell vs. Sanchez</title>
-    <desc lang="en">David Mundell vs. Donald Sanchez, middleweight championship. From Tingley Coliseum in Albuquerque, N.M.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p30219678_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114090000 +0000" stop="20251114100000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 41</title>
-    <desc lang="en">Features Mike Perry vs. Luke Rockhold, Eddie Alvarez vs. Chad Mendes, plus Christine Ferea vs. Bec Rawlings for BKFC women's flyweight title from Broomfield, Colo. From April 29, 2023.</desc>
-    <date>2024</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p27042325_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114100000 +0000" stop="20251114110000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Total Combat Presents</title>
-    <desc lang="en">Total Combat Presents.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114110000 +0000" stop="20251114120000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Total Combat Presents</title>
-    <desc lang="en">Total Combat Presents.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114120000 +0000" stop="20251114130000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Combat Zone</title>
-    <desc lang="en">Combat Zone.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p30167494_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114130000 +0000" stop="20251114140000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">The Daily Tip</title>
-    <desc lang="en">Early Betting Tips to Give You The Edge. Your first source for the day's angles, hot takes, analysis and more with hosts Michael Jenkins and Chelsa Messinger. Weekdays from 6am-9am ET.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114140000 +0000" stop="20251114150000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Bet Sweats</title>
-    <desc lang="en">Featuring two of the sharpest bettors in the game, Joe Ostrowski and Sam Panayotovich bring unmatched expertise. This show is a can't-miss for any sports or betting fan looking for actionable insights, bold predictions, and high-stakes entertainment.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114150000 +0000" stop="20251114160000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Coach and Company</title>
-    <desc lang="en">Jonathan Coachman hosts this no-holds-barred daily sports talk show. "The Coach" leads dynamic discussions with a rotating cast of all-star analysts and sports insiders.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114160000 +0000" stop="20251114170000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Bellator MMA</title>
-    <desc lang="en">Yaroslav Amosov vs. Logan Storley, welterweight world championship; Pedro Carvalho vs. Jeremy Kennedy, featherweight bout. From 3Arena in Dublin, Ireland.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p23773167_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114170000 +0000" stop="20251114180000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Bellator MMA</title>
-    <desc lang="en">From March 10, 2023 at SAP Center in San Jose, Calif.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="https://provider-static.plex.tv/epg/cms/production/5765274d-f97d-4881-b9e2-09dfbb72d0e9/stadium_horizontal_-_Janet_Feng.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114180000 +0000" stop="20251114190000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Bellator MMA</title>
-    <desc lang="en">Marcelo Golm vs. Daniel James, heavyweight bout. From Pechanga Resort &amp; Casino in Temecula, Calif.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p24125892_b_h8_ab.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114190000 +0000" stop="20251114220000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">Karate Combat 57</title>
-    <desc lang="en">Karate Combat 57.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p31581527_i_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114220000 +0000" stop="20251114230000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 53</title>
-    <desc lang="en">From Colonial Life Arena, Columbia, S.C. on Nov. 3, 2023.</desc>
-    <date>2025</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p29607758_b_h8_aa.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20251114230000 +0000" stop="20251115000000 +0000" channel="plex.tv.Stadium.plex">
-    <title lang="en">BKFC 42 Greenville: Soto vs. Goodjohn</title>
-    <desc lang="en">Antonio Soto III vs. Tyler Goodjohn, lightweights; Doug Coltrane vs. Blake LaCaze, middleweights. From Bon Secours Wellness Arena in Greenville, S.C.</desc>
-    <date>2023</date>
-    <category lang="en">Sports</category>
-    <icon src="http://www.tmsimg.com/assets/p24582758_i_h8_ab.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
     <rating system="US">
       <value>TV-PG</value>
     </rating>
