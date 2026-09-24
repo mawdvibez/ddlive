@@ -230,23 +230,6 @@
   <programme start="20260922200000 -0500" stop="20260922210000 -0500" channel="Canal.HBO.Plus.mx">
     <title lang="es">Lanterns</title>
   </programme>
-  <channel id="TNT.Sports.1.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 1 HD</display-name>
-  </channel>
-  <channel id="Channel.5.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Channel 5</display-name>
-  </channel>
-  <channel id="Sky.Comedy.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Comedy HD</display-name>
-  </channel>
   <channel id="Sky.Sports.Football.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png" />
     <icon src="https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png" />
@@ -259,11 +242,17 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Drama HD</display-name>
   </channel>
-  <channel id="TNT.Sports.2.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+  <channel id="Sky.Action.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Action HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.1.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
     <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 2 HD</display-name>
+    <display-name lang="en">TNT Sports 1 HD</display-name>
   </channel>
   <channel id="TNT.Sports.4.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
@@ -271,11 +260,11 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 4 HD</display-name>
   </channel>
-  <channel id="SkySpCricket.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
+  <channel id="Sky.Comedy.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySpCricket HD</display-name>
+    <display-name lang="en">Sky Comedy HD</display-name>
   </channel>
   <channel id="SkySp.F1.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
@@ -283,29 +272,40 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp F1 HD</display-name>
   </channel>
-  <channel id="SkySpMainEvHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySpMainEvHD</display-name>
-  </channel>
   <channel id="TNT.Sports.5.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" />
     <icon src="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" />
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 5 HD</display-name>
   </channel>
-  <channel id="Sky.Action.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Action HD</display-name>
-  </channel>
   <channel id="Sky.Atlantic.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Atlantic HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.2.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 2 HD</display-name>
+  </channel>
+  <channel id="SkySpCricket.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySpCricket HD</display-name>
+  </channel>
+  <channel id="Channel.5.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1800.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Channel 5</display-name>
+  </channel>
+  <channel id="SkySpMainEvHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySpMainEvHD</display-name>
   </channel>
   <programme channel="Sky.Action.HD.uk" start="20260921015500 +0000" stop="20260921035500 +0000">
     <title lang="en">300</title>
